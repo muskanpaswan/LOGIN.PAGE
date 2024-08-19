@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+    border: 2px solid black;
+    width: 90%;
+    margin: auto;
+}
+.Login{
+    background-color: rgb(145, 100, 186);
+    font-size: larger;
+    text-align: center;
+}
